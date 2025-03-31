@@ -7,7 +7,6 @@
 ✅ **Error handling** (rate limits, invalid tokens, etc.)  
 ✅ **Non-flagged** to avoid detection  
 ✅ **Multi-threading** for faster execution  
-✅ **Proxy support** (optional)  
 ✅ **User-agent spoofing** for stealth mode  
 ✅ **Detailed logging**  
 
